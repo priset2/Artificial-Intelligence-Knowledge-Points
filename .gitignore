@@ -12,7 +12,3 @@ env/
 .idea/
 .vscode/
 
-# 项目特定文件
-answers.md
-answers.html
-answers.pdf
